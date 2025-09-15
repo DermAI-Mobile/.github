@@ -5,7 +5,7 @@
 </p>
 
 ---
-## 🌟 About
+## About
 
 Derm AI is an initiative to support dermatological diagnosis using **artificial intelligence**.  
 Our projects combine **computer vision** and **mobile-first development** to help healthcare professionals with fast and reliable diagnostic support.
@@ -16,7 +16,7 @@ We currently maintain:
 - **Derm AI Front**: Flutter-based front-end for mobile platforms, allowing easy integration with the back-end services.
 
 ---
-## 🏗 Projects Structure
+## Projects Structure
 
 | Repository       | Description                               |
 | ---------------- | ----------------------------------------- |
@@ -24,7 +24,7 @@ We currently maintain:
 | **derm-ai-front**| Mobile/Flutter application for end-users   |
 
 ---
-## 💡 Key Features
+## Key Features
 
 - **AI-Powered Diagnosis**: Visual analysis with MedGemma.
 - **Mobile-First Integration**: Flutter front-end and RESTful APIs.
@@ -32,7 +32,7 @@ We currently maintain:
 - **Open Collaboration**: Designed for developers, researchers, and healthcare professionals.
 
 ---
-## 📜 License
+## License
 
 All repositories in this organization follow the respective LICENSE files included in each project.
 
