@@ -1,7 +1,7 @@
 <h1 align="center">Derm AI Organization</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/shorts/pP8O6Jt3I4o" target="_blank">
+  <a href="https://youtube.com/shorts/ctMW6UkKagg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Demo-red?logo=youtube&style=flat-square" alt="YouTube Demo"/>
   </a>
   <img src="https://img.shields.io/badge/AI-Dermatology-blue?style=flat-square" alt="Derm AI"/>
