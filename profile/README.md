@@ -1,6 +1,9 @@
 <h1 align="center">Derm AI Organization</h1>
 
 <p align="center">
+  <a href="https://www.youtube.com/shorts/pP8O6Jt3I4o" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Demo-red?logo=youtube&style=flat-square" alt="YouTube Demo"/>
+  </a>
   <img src="https://img.shields.io/badge/AI-Dermatology-blue?style=flat-square" alt="Derm AI"/>
 </p>
 
@@ -14,6 +17,8 @@ We currently maintain:
 
 - **Derm AI Back**: Back-end powered by the **MedGemma Visual Agent**, providing RESTful APIs for image analysis and diagnosis.
 - **Derm AI Front**: Flutter-based front-end for mobile platforms, allowing easy integration with the back-end services.
+
+> The app is currently in **Portuguese**, but will support other languages in the future.
 
 ---
 ## Projects Structure
