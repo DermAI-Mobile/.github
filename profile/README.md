@@ -17,16 +17,18 @@ We currently maintain:
 
 - **Derm AI Back**: Back-end powered by the **MedGemma Visual Agent**, providing RESTful APIs for image analysis and diagnosis.
 - **Derm AI Front**: Flutter-based front-end for mobile platforms, allowing easy integration with the back-end services.
+- **Derm AI Releases**: Centralized repository for stable releases of the front-end and back-end applications.
 
 > The app is currently in **Portuguese**, but will support other languages in the future.
 
 ---
 ## Projects Structure
 
-| Repository       | Description                               |
-| ---------------- | ----------------------------------------- |
-| **derm-ai-back** | Server-side application and AI engine      |
-| **derm-ai-front**| Mobile/Flutter application for end-users   |
+| Repository           | Description                               |
+| ------------------- | ----------------------------------------- |
+| **derm-ai-back**    | Server-side application and AI engine      |
+| **derm-ai-front**   | Mobile/Flutter application for end-users   |
+| **derm-ai-releases**| Centralized repository for releases        |
 
 ---
 ## Key Features
@@ -35,6 +37,12 @@ We currently maintain:
 - **Mobile-First Integration**: Flutter front-end and RESTful APIs.
 - **Diagnostic Transparency**: Confidence levels and clear reports.
 - **Open Collaboration**: Designed for developers, researchers, and healthcare professionals.
+
+---
+## Access
+
+All repositories in this organization, including the releases, are **private**.  
+If you want access, please send an email to: **carneiroangelojoaopedro@gmail.com**
 
 ---
 ## License
