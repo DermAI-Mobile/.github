@@ -10,6 +10,8 @@
 ---
 ## About
 
+> Developed at the [Agents4Good](https://github.com/Agents4Good) Laboratory
+
 Derm AI is an initiative to support dermatological diagnosis using **artificial intelligence**.  
 Our projects combine **computer vision** and **mobile-first development** to help healthcare professionals with fast and reliable diagnostic support.
 
